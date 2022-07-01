@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Hello I've explored AWS Codepipeline! I am very excited :)
+      Hello I've explored AWS Codepipeline! I am very excited :)!
     </div>
   );
 }
